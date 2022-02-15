@@ -107,7 +107,7 @@ public class RetailPageObj extends Base{
 		loginButton.click();
 	}
 	public void enterUserName() {
-		userNameFiled.sendKeys("zirak3@gmail.com");
+		userNameFiled.sendKeys("zirak4@gmail.com");
 	}
 	public void enterPassword() {
 		passwordField.sendKeys("1111");

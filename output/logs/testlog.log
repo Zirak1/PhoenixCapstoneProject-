@@ -1540,3 +1540,227 @@
 2022-02-14 17:55:36,272 - logger_File -INFO - User Can see the size of items Success
 2022-02-14 17:55:36,776 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
 2022-02-14 17:55:36,809 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-14 17:55:41,385 - logger_File -INFO - Home validated successfully
+2022-02-14 17:55:41,457 - logger_File -INFO - Clicked on desktop
+2022-02-14 17:55:42,192 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 17:55:42,271 - logger_File -INFO - Enterd to HPLP by cliking add to cart button Successfully!
+2022-02-14 17:55:45,237 - logger_File -INFO - Clicked on add to cart Button2 Successfuly!
+2022-02-14 17:55:47,449 - logger_File -INFO - Success message showing and taken screenshot Successfully!
+2022-02-14 17:55:47,744 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-14 17:55:47,770 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-14 17:55:52,759 - logger_File -INFO - Home validated successfully
+2022-02-14 17:55:52,820 - logger_File -INFO - Clicked on desktop
+2022-02-14 17:55:53,838 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 17:56:06,805 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-14 17:56:06,857 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-14 17:56:15,363 - logger_File -INFO - Home validated successfully
+2022-02-14 17:56:15,418 - logger_File -INFO - Clicked on desktop
+2022-02-14 17:56:16,398 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 17:56:22,771 - logger_File -INFO - Text verified!
+2022-02-14 17:56:23,056 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-14 17:56:23,077 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-14 17:56:36,864 - logger_File -INFO - Text verified!
+2022-02-14 17:56:40,967 - logger_File -INFO - Cart is empty!
+2022-02-14 17:56:45,181 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-14 17:56:45,196 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-14 17:56:54,303 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-14 17:56:54,319 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-14 17:56:59,058 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-14 17:56:59,085 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-14 17:57:04,368 - logger_File -INFO - Price verified!
+2022-02-14 17:57:04,703 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-14 17:57:04,718 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-14 17:57:08,886 - logger_File -INFO - Home validated successfully
+2022-02-14 17:57:08,941 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 17:57:09,306 - logger_File -INFO - User clicked on Login
+2022-02-14 17:57:09,519 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 17:57:09,918 - logger_File -INFO - User clicked on Login button
+2022-02-14 17:57:09,961 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 17:57:12,451 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2022-02-14 17:57:14,984 - logger_File -INFO - User filled affiliate form with above information
+2022-02-14 17:57:15,063 - logger_File -INFO - User checked on About us check box
+2022-02-14 17:57:15,546 - logger_File -INFO - User clicked on Continue button
+2022-02-14 17:57:15,590 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 17:57:15,983 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-14 17:57:16,004 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-14 17:57:21,113 - logger_File -INFO - Home validated successfully
+2022-02-14 17:57:21,165 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 17:57:21,708 - logger_File -INFO - User clicked on Login
+2022-02-14 17:57:21,922 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 17:57:22,342 - logger_File -INFO - User clicked on Login button
+2022-02-14 17:57:22,381 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 17:57:22,877 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2022-02-14 17:57:24,973 - logger_File -INFO - user clicked on Bank Transfer radio button
+2022-02-14 17:57:25,524 - logger_File -INFO - User filled Bank information with above information
+2022-02-14 17:57:26,089 - logger_File -INFO - User clicked on Continue button
+2022-02-14 17:57:26,129 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 17:57:26,517 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-14 17:57:26,531 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-14 17:57:33,135 - logger_File -INFO - Home validated successfully
+2022-02-14 17:57:33,194 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 17:57:33,981 - logger_File -INFO - User clicked on Login
+2022-02-14 17:57:34,189 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 17:57:34,627 - logger_File -INFO - User clicked on Login button
+2022-02-14 17:57:34,666 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 17:57:35,587 - logger_File -INFO - User clicked on ‘Edit your account information’ link
+2022-02-14 17:57:36,120 - logger_File -INFO - User modified above information
+2022-02-14 17:57:36,567 - logger_File -INFO - User clicked on continue button
+2022-02-14 17:57:36,608 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 17:57:37,036 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-02-14 18:30:24,744 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-14 18:30:30,116 - logger_File -INFO - Home validated successfully
+2022-02-14 18:30:30,250 - logger_File -INFO - User click on Currency
+2022-02-14 18:30:33,515 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-14 18:30:33,574 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-14 18:30:36,952 - logger_File -INFO - Home validated successfully
+2022-02-14 18:30:44,811 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-14 18:30:44,834 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-14 18:30:47,808 - logger_File -INFO - Home validated successfully
+2022-02-14 18:30:47,857 - logger_File -INFO - Clicked on desktop
+2022-02-14 18:30:48,442 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 18:30:53,632 - logger_File -INFO - User Can see the size of items Success
+2022-02-14 18:30:53,960 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-14 18:30:53,998 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-14 18:30:57,980 - logger_File -INFO - Home validated successfully
+2022-02-14 18:30:58,031 - logger_File -INFO - Clicked on desktop
+2022-02-14 18:30:58,671 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 18:30:58,750 - logger_File -INFO - Enterd to HPLP by cliking add to cart button Successfully!
+2022-02-14 18:31:01,025 - logger_File -INFO - Clicked on add to cart Button2 Successfuly!
+2022-02-14 18:31:03,220 - logger_File -INFO - Success message showing and taken screenshot Successfully!
+2022-02-14 18:31:03,660 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-14 18:31:03,696 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-14 18:31:07,344 - logger_File -INFO - Home validated successfully
+2022-02-14 18:31:07,390 - logger_File -INFO - Clicked on desktop
+2022-02-14 18:31:08,058 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 18:31:21,200 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-14 18:31:21,226 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-14 18:31:24,616 - logger_File -INFO - Home validated successfully
+2022-02-14 18:31:24,665 - logger_File -INFO - Clicked on desktop
+2022-02-14 18:31:25,372 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 18:31:33,379 - logger_File -INFO - Text verified!
+2022-02-14 18:31:37,712 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-14 18:31:37,729 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-14 18:31:43,846 - logger_File -INFO - Text verified!
+2022-02-14 18:31:47,051 - logger_File -INFO - Cart is empty!
+2022-02-14 18:31:47,495 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-14 18:31:47,514 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-14 18:31:55,862 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-14 18:31:55,874 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-14 18:32:00,350 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-14 18:32:00,375 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-14 18:32:05,794 - logger_File -INFO - Price verified!
+2022-02-14 18:32:10,123 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-14 18:32:10,138 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-14 18:32:13,498 - logger_File -INFO - Home validated successfully
+2022-02-14 18:32:13,549 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 18:32:14,039 - logger_File -INFO - User clicked on Login
+2022-02-14 18:32:14,255 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 18:32:14,934 - logger_File -INFO - User clicked on Login button
+2022-02-14 18:32:14,968 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 18:32:47,571 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-14 18:32:47,599 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-14 18:32:51,631 - logger_File -INFO - Home validated successfully
+2022-02-14 18:32:51,687 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 18:32:52,062 - logger_File -INFO - User clicked on Login
+2022-02-14 18:32:52,268 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 18:32:52,656 - logger_File -INFO - User clicked on Login button
+2022-02-14 18:32:52,692 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 18:32:53,168 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2022-02-14 18:32:55,250 - logger_File -INFO - user clicked on Bank Transfer radio button
+2022-02-14 18:32:56,054 - logger_File -INFO - User filled Bank information with above information
+2022-02-14 18:32:56,472 - logger_File -INFO - User clicked on Continue button
+2022-02-14 18:32:56,532 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 18:32:58,105 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-14 18:32:58,114 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-14 18:33:01,395 - logger_File -INFO - Home validated successfully
+2022-02-14 18:33:01,469 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 18:33:01,958 - logger_File -INFO - User clicked on Login
+2022-02-14 18:33:02,168 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 18:33:02,536 - logger_File -INFO - User clicked on Login button
+2022-02-14 18:33:02,573 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 18:33:03,517 - logger_File -INFO - User clicked on ‘Edit your account information’ link
+2022-02-14 18:33:04,068 - logger_File -INFO - User modified above information
+2022-02-14 18:33:04,468 - logger_File -INFO - User clicked on continue button
+2022-02-14 18:33:04,515 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 18:33:05,021 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-02-14 20:22:15,585 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-14 20:22:25,282 - logger_File -INFO - Home validated successfully
+2022-02-14 20:22:25,837 - logger_File -INFO - User click on Currency
+2022-02-14 20:22:32,089 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-14 20:22:32,142 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-14 20:22:39,261 - logger_File -INFO - Home validated successfully
+2022-02-14 20:22:47,615 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-14 20:22:47,667 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-14 20:22:55,156 - logger_File -INFO - Home validated successfully
+2022-02-14 20:22:55,324 - logger_File -INFO - Clicked on desktop
+2022-02-14 20:22:56,894 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 20:23:03,528 - logger_File -INFO - User Can see the size of items Success
+2022-02-14 20:23:05,096 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-14 20:23:05,125 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-14 20:23:08,982 - logger_File -INFO - Home validated successfully
+2022-02-14 20:23:09,045 - logger_File -INFO - Clicked on desktop
+2022-02-14 20:23:09,734 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 20:23:09,875 - logger_File -INFO - Enterd to HPLP by cliking add to cart button Successfully!
+2022-02-14 20:23:12,014 - logger_File -INFO - Clicked on add to cart Button2 Successfuly!
+2022-02-14 20:23:14,239 - logger_File -INFO - Success message showing and taken screenshot Successfully!
+2022-02-14 20:23:14,702 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-14 20:23:14,745 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-14 20:23:18,953 - logger_File -INFO - Home validated successfully
+2022-02-14 20:23:19,028 - logger_File -INFO - Clicked on desktop
+2022-02-14 20:23:19,810 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 20:23:33,064 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-14 20:23:33,091 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-14 20:23:37,204 - logger_File -INFO - Home validated successfully
+2022-02-14 20:23:37,277 - logger_File -INFO - Clicked on desktop
+2022-02-14 20:23:37,991 - logger_File -INFO - clicked on Show All Desktop
+2022-02-14 20:23:43,721 - logger_File -INFO - Text verified!
+2022-02-14 20:23:44,262 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-14 20:23:44,282 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-14 20:23:50,900 - logger_File -INFO - Text verified!
+2022-02-14 20:23:54,173 - logger_File -INFO - Cart is empty!
+2022-02-14 20:23:58,551 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-14 20:23:58,568 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-14 20:24:06,940 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-14 20:24:06,975 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-14 20:24:13,543 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-14 20:24:13,564 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-14 20:24:20,033 - logger_File -INFO - Price verified!
+2022-02-14 20:24:24,324 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-14 20:24:24,357 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-14 20:24:29,792 - logger_File -INFO - Home validated successfully
+2022-02-14 20:24:30,086 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 20:24:31,535 - logger_File -INFO - User clicked on Login
+2022-02-14 20:24:32,498 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 20:24:33,266 - logger_File -INFO - User clicked on Login button
+2022-02-14 20:24:33,370 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 20:24:36,209 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2022-02-14 20:24:39,521 - logger_File -INFO - User filled affiliate form with above information
+2022-02-14 20:24:39,813 - logger_File -INFO - User checked on About us check box
+2022-02-14 20:24:41,080 - logger_File -INFO - User clicked on Continue button
+2022-02-14 20:24:41,310 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 20:24:43,642 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-14 20:24:43,679 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-14 20:24:52,007 - logger_File -INFO - Home validated successfully
+2022-02-14 20:24:52,293 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 20:24:53,355 - logger_File -INFO - User clicked on Login
+2022-02-14 20:24:54,037 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 20:24:55,003 - logger_File -INFO - User clicked on Login button
+2022-02-14 20:24:55,116 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 20:24:56,351 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2022-02-14 20:24:58,665 - logger_File -INFO - user clicked on Bank Transfer radio button
+2022-02-14 20:25:01,414 - logger_File -INFO - User filled Bank information with above information
+2022-02-14 20:25:02,545 - logger_File -INFO - User clicked on Continue button
+2022-02-14 20:25:02,713 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 20:25:05,331 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-14 20:25:05,371 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-14 20:25:14,252 - logger_File -INFO - Home validated successfully
+2022-02-14 20:25:14,433 - logger_File -INFO - User clicked  on MyAccount
+2022-02-14 20:25:15,496 - logger_File -INFO - User clicked on Login
+2022-02-14 20:25:16,276 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-14 20:25:17,642 - logger_File -INFO - User clicked on Login button
+2022-02-14 20:25:18,626 - logger_File -INFO - User can see logged in to MyAccount dashboard
+2022-02-14 20:25:21,549 - logger_File -INFO - User clicked on ‘Edit your account information’ link
+2022-02-14 20:25:25,221 - logger_File -INFO - User modified above information
+2022-02-14 20:25:26,433 - logger_File -INFO - User clicked on continue button
+2022-02-14 20:25:26,633 - logger_File -INFO - User can see a success message successfuly!
+2022-02-14 20:25:27,663 - logger_File -INFO - Scenario Edit your account Information PASSED

@@ -31,6 +31,6 @@ Feature: Retail Page Feature
     When User click on ‘Edit your account information’ link
     And User modify below information
       | firstname | lastName | email       | telephone |
-      | jan       | khan |zirak3@gmail.com |     1111 |
+      | jan       | khan |zirak4@gmail.com |     1111 |
     And User click on continue button
     Then User should see a success message 'Success: Your account has been successfully updated.'
