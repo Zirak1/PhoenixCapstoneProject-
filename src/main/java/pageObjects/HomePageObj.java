@@ -97,9 +97,6 @@ public class HomePageObj extends Base {
 	private WebElement cameras;
 	@FindBy(xpath = "//a[text()='MP3 Players']")
 	private WebElement mp3Players;
-	// @FindBy(xpath="//div[@id='slideshow0']")
-	// private WebElement slideshow;
-
 	@FindBy(xpath = "//a[text()='Tablets']")
 	private WebElement tablets;
 	@FindBy(xpath = "//a[text()='MacBook']")
@@ -114,7 +111,6 @@ public class HomePageObj extends Base {
 	private WebElement wishListHeartMac;
 	@FindBy(xpath = "(//*[@class='fa fa-exchange'])[1]")
 	private WebElement comareThisProductMac;
-
 	@FindBy(xpath = "//a[text()='iPhone']")
 	private WebElement iPhone;
 	@FindBy(xpath = "//p[contains(text(),'iPhone is a revolutionary')]")
@@ -127,7 +123,6 @@ public class HomePageObj extends Base {
 	private WebElement wishListHeardIPhone;
 	@FindBy(xpath = "(//*[@class='fa fa-exchange'])[2]")
 	private WebElement compareThisProductIPhone;
-
 	@FindBy(xpath = "//a[text()='Apple Cinema 30\"']")
 	private WebElement aplleCinema30;
 	@FindBy(xpath = "//p[contains(text(),'The 30-inch')]")

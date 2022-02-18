@@ -63,7 +63,6 @@ public class loptopsNoteBooks extends Base {
 		labNote.TextEmptyShoppingCart();
 	}
 
-//-2---------
 	@When("User click on product comparison icon on ‘MacBook’")
 	public void user_click_on_product_comparison_icon_on_mac_book() {
 		labNote.clickOncompareProductButtonMacBook();
@@ -92,7 +91,6 @@ public class loptopsNoteBooks extends Base {
 		Utilities.takeScreenShot("All products");
 	}
 
-//-------------------	
 	@When("User click on heart icon to add ‘Sony VaIO’ laptop to wish list")
 	public void user_click_on_heart_icon_to_add_sony_va_io_laptop_to_wish_list() {
 		labNote.clickOnHeartSonyVAIO();

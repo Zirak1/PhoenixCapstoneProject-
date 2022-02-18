@@ -19,7 +19,6 @@ public class DesktopsPageObj extends Base {
 
 	@FindBy(xpath = "//a[text()='TEST ENVIRONMENT']")
 	private WebElement textTESTENVIRONMENT;
-
 	@FindBy(xpath = "//a[text()='Desktops']")
 	private WebElement desktop;
 	@FindBy(xpath = "//a[text()='PC (0)']")
@@ -41,20 +40,19 @@ public class DesktopsPageObj extends Base {
 	@FindBy(xpath = "//div[text()='Showing 1 to 1 of 1 (1 Pages)']")
 	private WebElement iMacPageText;
 	@FindBy(xpath = "//h2[text()='Mac']")
-	private WebElement iMacText; // it's text on the top. getText();
+	private WebElement iMacText;
 	@FindBy(xpath = "//i[@class='fa fa-th-list']")
-	private WebElement iMacList; // it's a little square on the top .click();
+	private WebElement iMacList;
 	@FindBy(xpath = "//i[@class='fa fa-th']")
-	private WebElement iMacGrid; // it's a little square on the top .click();
+	private WebElement iMacGrid;
 	@FindBy(id = ("compare-total"))
-	private WebElement iMacProductCompare; // it's on the top next to two little squares .click()
+	private WebElement iMacProductCompare;
 	@FindBy(xpath = "//select[@id='input-sort']")
-	private WebElement iMacSortBy; // it's on the top .click()
+	private WebElement iMacSortBy;
 	@FindBy(xpath = "//select[@id='input-limit']")
-	private WebElement iMacShow; // it's on the top .click()
-
+	private WebElement iMacShow;
 	@FindBy(xpath = "//a[text()='Show All Desktops']")
-	private WebElement showAllDesktopPageItem;// .click
+	private WebElement showAllDesktopPageItem;
 	@FindBy(xpath = "(//a[text()='Desktops'])[2]")
 	private WebElement printDesktopName;
 	@FindBy(xpath = "//p[contains (text(), 'Example of category')]")
@@ -63,47 +61,42 @@ public class DesktopsPageObj extends Base {
 	private WebElement defaultDropDown;
 	@FindBy(xpath = "//select[@id = 'input-limit']")
 	private WebElement showtDropDown;
-	@FindBy (tagName="a")
+	@FindBy(tagName = "a")
 	private List<WebElement> allListOfItemsOnDesktop;
-	
-	//@FindBy(xpath = ("(//div[@class='row'])[6]//div//div[@class='caption']//h4/a"))
-	//private List<WebElement> allListOfItemsOnDesktop;
-
 	@FindBy(linkText = "Apple Cinema 30")
-	private WebElement printAppleCinemsName; // .click
-	@FindBy(xpath = "//div[contains(text(),'The 30-inch Apple Cinema')]") // getText
+	private WebElement printAppleCinemsName;
+	@FindBy(xpath = "//div[contains(text(),'The 30-inch Apple Cinema')]")
 	private WebElement appleCinemaDescription;
 	@FindBy(xpath = "//span[text()='$110.00']")
 	private WebElement appleCinemaPriceAndTax;
 	@FindBy(xpath = "//span[text()='Add to Cart'][1]")
-	private WebElement appleCinemaAddToCart;// .click
+	private WebElement appleCinemaAddToCart;
 	@FindBy(xpath = "//i[@class='fa fa-heart'])[2]")
-	private WebElement appleCinemaWishList;// .click
+	private WebElement appleCinemaWishList;
 	@FindBy(xpath = "(//i[@class='fa fa-exchange'])[1]")
-	private WebElement appleCinemaCompareThisProduction; // . click
-
+	private WebElement appleCinemaCompareThisProduction;
 	@FindBy(xpath = "//a[normalize-space()='Canon EOS 5D Camera']")
-	private WebElement canonEOSPrintName;// click
+	private WebElement canonEOSPrintName;
 	@FindBy(xpath = "//p[contains(text(),'Canon')]")
 	private WebElement cannonEOS5DDEscription;
 	@FindBy(xpath = "//p[@class='price'][1]")
-	private WebElement canonEOSPrice; // getText
-	@FindBy(xpath = "//button[contains(@onclick,'30')][1]") //// izmenila
-	private WebElement canonEOSAddToCart; // getText
+	private WebElement canonEOSPrice;
+	@FindBy(xpath = "//button[contains(@onclick,'30')][1]")
+	private WebElement canonEOSAddToCart;
 	@FindBy(xpath = "(//p[@class='price'])[2]")
-	private WebElement canonEOSPriceAndTax; // getText
+	private WebElement canonEOSPriceAndTax;
 	@FindBy(xpath = "(//i[@class='fa fa-heart'])[3]")
-	private WebElement canonEOSWishList; // click
+	private WebElement canonEOSWishList;
 	@FindBy(xpath = "(//i[@class='fa fa-exchange'])[2]")
-	private WebElement canonEOSCompareThisProduct; // getText
+	private WebElement canonEOSCompareThisProduct;
 	@FindBy(xpath = "//select[@class='form-control']")
 	private WebElement canonEOSSelect;
 	@FindBy(xpath = "	//input[@id='input-quantity']")
-	private WebElement canonSelectQty; // .click
+	private WebElement canonSelectQty;
 	@FindBy(xpath = "//button[@id='button-cart']")
-	private WebElement canonAddToCartQty; // .click
+	private WebElement canonAddToCartQty;
 	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
-	private WebElement successTextCanonAddToCart; // .click
+	private WebElement successTextCanonAddToCart;
 	@FindBy(xpath = "//a[text()='Write a review']")
 	private WebElement writeReviewCanonEOS;
 	@FindBy(xpath = "//input[@id='input-name']")
@@ -203,19 +196,19 @@ public class DesktopsPageObj extends Base {
 	}
 
 	@FindBy(linkText = "HP LP3065")
-	private WebElement printHPLPName; // .click
+	private WebElement printHPLPName;
 	@FindBy(xpath = "//p[contains(text(),'Stop your co-workers')]")
-	private WebElement hPLPDecriptionText; // getText
+	private WebElement hPLPDecriptionText;
 	@FindBy(xpath = "(//p[@class='price'])[3]")
-	private WebElement hPLPDPriceAndTax; // getText
-	// @FindBy(xpath="(//i[@class='fa fa-shopping-cart'])[5]")
+	private WebElement hPLPDPriceAndTax;
+
 	@FindBy(xpath = "//button[contains(@onclick,'47')][1]")
 
-	private WebElement hPLPAddtoCart; // .click
+	private WebElement hPLPAddtoCart;
 	@FindBy(xpath = "(//i[@class='fa fa-heart'])[4]")
-	private WebElement hPLPDWishList; // .click
+	private WebElement hPLPDWishList;
 	@FindBy(xpath = "(//i[@class='fa fa-exchange'])[3]")
-	private WebElement hPLPCompatreThiProduct; // .click
+	private WebElement hPLPCompatreThiProduct;
 	@FindBy(xpath = "//input[@Id='input-quantity']")
 	private WebElement hPLPQty;
 	@FindBy(xpath = "//button[@id='button-cart']")
@@ -380,18 +373,13 @@ public class DesktopsPageObj extends Base {
 	}
 
 	public void getListOfAllListOfItemsOnDesktop() throws InterruptedException {
-//		List<WebElement> list = allListOfItemsOnDesktop;
-//		Thread.sleep(3000);
-//		for (int i = 0; i < list.size(); i++) {
-//			String text = list.get(i).getText();
-//			System.out.println(text);
-		List<WebElement> list=allListOfItemsOnDesktop;
+
+		List<WebElement> list = allListOfItemsOnDesktop;
 		System.out.println(list.size() + " size of element prsent in UI:");
 		Thread.sleep(3000);
 		for (int i = 0; i < list.size(); i++) {
-//			String text = list.get(i).getText();
-//			System.out.println(text);
-			Assert.assertTrue(list.size()!=0);
+
+			Assert.assertTrue(list.size() != 0);
 
 		}
 	}

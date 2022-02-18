@@ -12,8 +12,8 @@ public class SoftwarePageObj extends Base{
 		PageFactory.initElements(driver, this);
 	}
 
-	@FindBy(linkText = "Software")   //click
+	@FindBy(linkText = "Software")   
 	private WebElement software;
 	@FindBy(xpath="//h2[text()='Software']")
-	private WebElement printTextsoftware;   //text
+	private WebElement printTextsoftware;   
 }

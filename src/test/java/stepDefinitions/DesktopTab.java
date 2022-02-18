@@ -10,7 +10,7 @@ import pageObjects.DesktopPageObj;
 
 import utilities.Utilities;
 
-public class DesktopTab extends Base{
+public class DesktopTab extends Base {
 	DesktopPageObj desktop = new DesktopPageObj();
 
 	@Given("User is on Retail website")
@@ -39,19 +39,13 @@ public class DesktopTab extends Base{
 
 		desktop.getListOfAllListOfItemsOnDesktop();
 		logger.info("User Can see the size of items Success");
-		// 106 size of element prsent in UI:we will see in our test pass
-		
-//		Utilities.takeScreenShot("1 Show All Desktop Page");
-//		Utilities.scrolldownPage();
-//		Utilities.takeScreenShot("2 Show All Desktop Page");
+
 	}
 
-//2-HPLP3065--------------------------------------------------------------------
 	@And("User click  ADD TO CART option on ‘HP LP3065’ item")
 	public void user_click_add_to_cart_option_on_hp_lp3065_item() {
 		desktop.clickOnAddToCartHPLP();
 		logger.info("Enterd to HPLP by cliking add to cart button Successfully!");
-
 	}
 
 	@And("User select quantity {int}")
@@ -76,7 +70,6 @@ public class DesktopTab extends Base{
 
 	}
 
-//3-Cannon---------------------------------------------------------------------	
 	@When("User click  ADD TO CART option on ‘Canon EOS 5D’ item")
 	public void user_click_add_to_cart_option_on_canon_eos_5d_item() {
 		desktop.clickOnAddToCartCanonEOS5D();
@@ -92,7 +85,7 @@ public class DesktopTab extends Base{
 	@When("User select quantity {int} here")
 	public void user_select_quantity_here(Integer int1) {
 		desktop.canonSelectQtyClear();
-	    desktop.canonSelectQty();
+		desktop.canonSelectQty();
 	}
 
 	@When("User click add to Cart buttonn")
@@ -101,42 +94,41 @@ public class DesktopTab extends Base{
 	}
 
 	@Then("User should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!’")
-	public void user_should_see_a_message_success_you_have_added_canon_eos_5d_to_your_shopping_cart() throws IOException, InterruptedException {
+	public void user_should_see_a_message_success_you_have_added_canon_eos_5d_to_your_shopping_cart()
+			throws IOException, InterruptedException {
 		Thread.sleep(3000);
 		desktop.SuccessTextCanonAddToCart();
 		Utilities.takeScreenShot("Cannon EOS 5D");
 	}
 
-
-//4---------------------------------------------------------
-
 	@When("User click on Canon EOS 5D item")
 	public void user_click_on_canon_eos_5d_item() {
 		desktop.clickOnCanonEOSPrintName();
-}
+	}
 
 	@When("User click on write a review link")
 	public void user_click_on_write_a_review_link() {
 		desktop.clickOnwriteReviewCanonEOS();
-}
+	}
 
 	@When("user fill the review information with below information")
 	public void user_fill_the_review_information_with_below_information(io.cucumber.datatable.DataTable dataTable) {
-        desktop.sendKeyInputNameReviewCanonEOS();
-        desktop.sendKeyTextAreaReviewCanonEOS();
-        desktop.clickOnradioButtonCanonEOS5();
-}
+		desktop.sendKeyInputNameReviewCanonEOS();
+		desktop.sendKeyTextAreaReviewCanonEOS();
+		desktop.clickOnradioButtonCanonEOS5();
+	}
 
 	@When("User click on Continue Button")
 	public void user_click_on_continue_button() {
 		desktop.clickOnContinueButtonCanonEOS();
-    
-}
+
+	}
 
 	@Then("User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval.”")
-	public void user_should_see_a_message_with_thank_you_for_your_review_it_has_been_submitted_to_the_webmaster_for_approval() throws InterruptedException {
+	public void user_should_see_a_message_with_thank_you_for_your_review_it_has_been_submitted_to_the_webmaster_for_approval()
+			throws InterruptedException {
 		Thread.sleep(3000);
 		desktop.textThankYouMessageCanonEOS();
-		
-}
+
+	}
 }
