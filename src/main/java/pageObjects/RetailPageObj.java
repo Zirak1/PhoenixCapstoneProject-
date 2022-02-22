@@ -96,7 +96,7 @@ public class RetailPageObj extends Base {
 	}
 // email update here 
 	public void enterUserName() {
-		userNameFiled.sendKeys("zirak5@gmail.com");
+		userNameFiled.sendKeys("zirak9@gmail.com");
 	}
 
 	public void enterPassword() {
